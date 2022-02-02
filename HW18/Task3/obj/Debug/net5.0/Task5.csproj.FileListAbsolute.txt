@@ -1,0 +1,16 @@
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\Task5.exe
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\Task5.deps.json
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\Task5.runtimeconfig.json
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\Task5.runtimeconfig.dev.json
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\Task5.dll
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\ref\Task5.dll
+C:\Users\Alina\Desktop\HW18\Task3\bin\Debug\net5.0\Task5.pdb
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.AssemblyInfo.cs
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.dll
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\ref\Task5.dll
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.pdb
+C:\Users\Alina\Desktop\HW18\Task3\obj\Debug\net5.0\Task5.genruntimeconfig.cache
